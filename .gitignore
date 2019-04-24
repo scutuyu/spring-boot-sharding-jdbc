@@ -101,3 +101,4 @@ mvnw.cmd
 mvnw
 /logs
 .DS_Store
+test/
